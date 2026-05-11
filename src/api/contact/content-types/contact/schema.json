@@ -22,6 +22,9 @@
     },
     "message": {
       "type": "text"
+    },
+    "completed_lessons": {
+      "type": "json"
     }
   }
 }
