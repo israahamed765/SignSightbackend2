@@ -67,7 +67,8 @@
       "configurable": false
     },
     "completed_lessons": {
-      "type": "json"
+      "type": "json",
+      "configurable": true
     }
   }
 }
